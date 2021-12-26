@@ -29,7 +29,7 @@ btn.addEventListener('click',(e)=>{
             Host: "smtp.gmail.com",
             Username: "accodemo5@gmail.com",
             Password: "demopass@",
-            To: 'sujaymori154@gmail.com',
+            To: 'virendrasings1978@gmail.com',
             From: "accodemo5@gmail.com",
             Subject: `${username} sent you`,
             Body: `email: ${email} <br/> ${message}`
